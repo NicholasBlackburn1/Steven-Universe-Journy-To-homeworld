@@ -49,7 +49,7 @@ INCLUDES	:= $(sort $(dir $(wildcard includes/*)))
 ROMFS		:=	assets
 GFXBUILD	:=	$(ROMFS)/gfx
 
-APP_TITLE		:=	Steven Universe: Journey to Homeworld -> on Homebrew! $(VERSTRING)
+APP_TITLE		:=	Steven Universe: Journey to Homeworld $(VERSTRING)
 APP_DESCRIPTION	:=	A Steven Universe Based (game maby) on the 3ds during Corna
 APP_AUTHOR		:=	NicholasBlackburn
 
